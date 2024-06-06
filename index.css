@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgba(116, 213, 243, 0.89);
+}
+
+.contant{
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.subtitulo{
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(114, 114, 114, 0.678);
+    padding: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: ghostwhite
+}
+
+form{
+    display:  ;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 5rem;
+}
